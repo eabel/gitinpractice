@@ -1,1 +1,3 @@
 Some initial text for tests
+
+Opening joke: przychodzi baba do lekarza...
