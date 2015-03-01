@@ -1,10 +1,8 @@
-Some initial text for tests
 
-Opening joke: przychodzi baba do lekarza...
-a lekarz tez baba
 
 changed 
 git config --local pull.rebase true
 to 'false'
 
 and now deleted all pull.rebase configuration
+
