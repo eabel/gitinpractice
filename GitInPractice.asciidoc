@@ -7,3 +7,4 @@ changed
 git config --local pull.rebase true
 to 'false'
 
+and now deleted all pull.rebase configuration
