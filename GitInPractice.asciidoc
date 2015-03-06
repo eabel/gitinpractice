@@ -12,5 +12,5 @@ Change on master
 
 
 Another chapter-2 change
-Let's create a conflict.
+Conflict resolved
 
