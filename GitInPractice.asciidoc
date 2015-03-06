@@ -7,6 +7,5 @@ to 'false'
 and now deleted all pull.rebase configuration
 
 Added chapter-two changes
-
-
+and another change
 
