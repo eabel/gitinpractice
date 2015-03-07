@@ -3,3 +3,4 @@ Chapter 1
 Chapter 2
 
 git checkout master
+git merge --ff-only <branch_name>
