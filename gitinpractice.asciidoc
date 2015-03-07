@@ -1,3 +1,5 @@
 Chapter 1
 
 Chapter 2
+
+git checkout master
