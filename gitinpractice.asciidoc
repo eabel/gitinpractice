@@ -1,16 +1,3 @@
-git update-index assume-unchanged <filename>
+Chapter 1
 
-changed 
-git config --local pull.rebase true
-to 'false'
-
-and now deleted all pull.rebase configuration
-
-Added chapter-two changes
-and another change
-Change on master
-
-
-Another chapter-2 change
-Conflict resolved
-
+Chapter 2
