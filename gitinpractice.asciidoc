@@ -11,4 +11,4 @@ git rerere forget gitinpractice.asciidoc
 #-- list all tags in current repository
 git tag
 
-git push -tags
+git push --tags
