@@ -5,3 +5,5 @@ git config --local pull.rebase true
 git show <branchname>:<filename>
 
 git config --global --add rerere.enabled 1
+
+git rerere forget gitinpractice.asciidoc
