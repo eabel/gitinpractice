@@ -7,3 +7,6 @@ git show <branchname>:<filename>
 git config --global --add rerere.enabled 1
 
 git rerere forget gitinpractice.asciidoc
+
+#-- list all tags in current repository
+git tag
