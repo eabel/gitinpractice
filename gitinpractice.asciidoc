@@ -12,3 +12,6 @@ git rerere forget gitinpractice.asciidoc
 git tag
 
 git push --tags
+
+git describe --tags
+
