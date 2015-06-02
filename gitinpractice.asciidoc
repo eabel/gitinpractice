@@ -1,8 +1,19 @@
-Chapter 1
-
-Chapter 2
 
 git checkout master
 git merge --ff-only <branch_name
+git config --local pull.rebase true
+
+git show <branchname>:<filename>
+
+git config --global --add rerere.enabled 1
+
+git rerere forget gitinpractice.asciidoc
+
+#-- list all tags in current repository
+git tag
+
+git push --tags
+
+git describe --tags
 
 edit after a long time>
